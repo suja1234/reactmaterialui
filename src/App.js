@@ -59,16 +59,7 @@ function App() {
 <Fab disabled >
   <FavoriteIcon />
 </Fab>
-<Fab color="secondary">
-  <EditIcon />
-</Fab>
-<Fab variant="extended">
-  <NavigationIcon />
-  Navigate
-</Fab>
-<Fab disabled >
-  <FavoriteIcon />
-</Fab>
+
       
     
       
